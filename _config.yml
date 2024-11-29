@@ -24,10 +24,10 @@ author:
   avatar           : "foto.jpg"
   name             : "Francesco Scarazzato"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "WU Wien - Vienna University of Economics and Business"
-  uri              : "https://www.wu.ac.at/en/economics/people/scarazzato-f/"
+  bio              : "PhD candidate at the Vienna University of Economics and Business"
+  location         : "Vienna, Austria"
+  employer         : "https://www.wu.ac.at/en/economics/people/scarazzato-f/"
+  uri              : #"https://www.wu.ac.at/en/economics/people/scarazzato-f/"
   email            : "francesco.scarazzato@wu.ac.at" 
 
   # Academic websites
