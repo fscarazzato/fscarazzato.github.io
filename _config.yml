@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate at the Vienna University of Economics and Business"
   location         : "Vienna, Austria"
-  employer         : "https://www.wu.ac.at/en/economics/people/scarazzato-f/"
-  uri              : #"https://www.wu.ac.at/en/economics/people/scarazzato-f/"
+  employer         : "WU Wien"
+  uri              : "https://www.wu.ac.at/en/economics/people/scarazzato-f/"
   email            : "francesco.scarazzato@wu.ac.at" 
 
   # Academic websites
