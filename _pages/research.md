@@ -21,8 +21,9 @@ Journal Publications
 
 <details open>
 
-<summary> **"When is the electric vehicle market self-sustaining? Evidence from Norway"** ([Link](https://doi.org/10.1016/j.eneco.2022.105991))
-Nicolas Koch, Nolan Ritter, Alexander Rohlf, Francesco Scarazzato. (2022). *Energy Economics*, 110:105991. </summary>
+<summary> <b> "When is the electric vehicle market self-sustaining? Evidence from Norway" </b> 
+<a href="https://doi.org/10.1016/j.eneco.2022.105991">(Link)</a>
+Nicolas Koch, Nolan Ritter, Alexander Rohlf, Francesco Scarazzato. (2022). <i> Energy Economics </i>, 110:105991. </summary>
 
 <font size="3"> This paper investigates whether the world’s most mature electric vehicle (EV) market in Norway has overcome critical mass constraints and can achieve sustainable long-term equilibria without subsidies. We estimate a structural model that allows for multiple equilibria emerging from the interdependence between EV demand and charging station supply. We first estimate the resulting indirect network effects using an instrumental variable approach. Then, we simulate long-term market outcomes for each of the 422 Norwegian municipalities. We find that almost 20% of all municipalities faced critical mass constraints in the earliest stage of the market. Half of them are effectively trapped in a zero-adoption equilibrium. However, in the maturing market, all municipalities have passed critical mass. Overall, about 60% of the Norwegian population now lives in municipalities with a high-adoption equilibrium, even if subsidies were removed. This suggests that critical mass constraints do no longer justify the provision of subsidies. </font>
 
@@ -31,7 +32,7 @@ Nicolas Koch, Nolan Ritter, Alexander Rohlf, Francesco Scarazzato. (2022). *Ener
 Working Papers
 ------
 
-- **How Elastic is the Aggregate Demand for Electricity? Evidence from a Hydropower-Rich Country** (*Short paper, available upon request*).
+- **"How Elastic is the Aggregate Demand for Electricity? Evidence from a Hydropower-Rich Country"** (*Short paper, available upon request*).
 
 - **"The Association between Adverse Temperature Shocks and Schooling Outcomes in India: Impact Quantification and Mitigation Potentials"** ([Working Paper](https://sofiewaltl.com/wp-content/uploads/2024/09/india.pdf))
 with Sumit Agrawal, Pulak Ghosh and Sofie R Waltl.
@@ -46,4 +47,4 @@ Ongoing Projects
 ------
 
 
-- **Hydropower and Market Power: Resource Extraction under Limited Transmission Capacity**.
+- **"Hydropower and Market Power: Resource Extraction under Limited Transmission Capacity"**.
