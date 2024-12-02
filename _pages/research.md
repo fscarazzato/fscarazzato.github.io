@@ -21,7 +21,7 @@ Journal Publications
 
 <details>
 
-<summary> <b> "When is the electric vehicle market self-sustaining? Evidence from Norway" </b> 
+<summary> <b> "When is the Electric Vehicle Market Self-sustaining? Evidence from Norway" </b> 
 <a href="https://doi.org/10.1016/j.eneco.2022.105991">(Link)</a>
 Nicolas Koch, Nolan Ritter, Alexander Rohlf, Francesco Scarazzato. (2022). <i> Energy Economics </i>, 110:105991. </summary>
 
