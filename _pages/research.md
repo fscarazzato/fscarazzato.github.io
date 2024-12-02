@@ -27,8 +27,12 @@ Nicolas Koch, Nolan Ritter, Alexander Rohlf, Francesco Scarazzato. (2022). *Ener
 Working Papers
 ------
 
+- **How Elastic is the Aggregate Demand for Electricity? Evidence from a Hydropower-Rich Country** (*Short paper, available upon request*).
+
 - **"The Association between Adverse Temperature Shocks and Schooling Outcomes in India: Impact Quantification and Mitigation Potentials"** ([Working Paper](https://sofiewaltl.com/wp-content/uploads/2024/09/india.pdf))
 with Sumit Agrawal, Pulak Ghosh and Sofie R Waltl.
+
+<br>
 
   > <font size="3"> Does extreme heat adversely affect the educational outcomes of kids in India? To address this question, we link results in the Indian Upper Primary Level Examination to information on local weather conditions, air pollution, and vegetation density sourced from remote sensing data. This link is established by precisely geo-coding school addresses. The panel structure of our data allows us to track the success of students attending the same school over four years, while accounting for any time-invariant school- or location-specific attributes.
 Our analysis reveals that both cumulative heat exposure and exposure to higher temperatures during examinations adversely affect students' performance. A constant increase in temperature by merely 0.5°C results in a drop in the number of students passing the exam by approximately 2% and a drop in the number of highest grades ("distinctions") of almost 15%, hinting towards a sizable potential loss in human capital. 
@@ -36,9 +40,8 @@ We find that the negative impact on exam pass rates intensifies with higher temp
 These findings suggest that increasing vegetation in the vicinity of schools is a valid policy recommendation to soften the adverse impacts of extreme heat on adverse educational outcomes, and adapt to expected long-term changes in climate. </font>
 
 
-Ongoing projects
+Ongoing Projects
 ------
 
-- **How Elastic is the Aggregate Demand for Electricity? Evidence from a Hydropower-Rich Country** (*Short paper, available upon request*)
 
-- **Hydropower and Market Power: Resource Extraction under Limited Transmission Capacity**
+- **Hydropower and Market Power: Resource Extraction under Limited Transmission Capacity**.
