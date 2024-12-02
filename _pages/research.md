@@ -18,11 +18,11 @@ author_profile: true
 Journal Publications
 ------
 
+<details>
+<summary>**"When is the electric vehicle market self-sustaining? Evidence from Norway"** ([Link](https://doi.org/10.1016/j.eneco.2022.105991))
+Nicolas Koch, Nolan Ritter, Alexander Rohlf, Francesco Scarazzato. (2022). *Energy Economics*, 110:105991.</summary>
 
-- **"When is the electric vehicle market self-sustaining? Evidence from Norway"** ([Link](https://doi.org/10.1016/j.eneco.2022.105991))
-Nicolas Koch, Nolan Ritter, Alexander Rohlf, Francesco Scarazzato. (2022). *Energy Economics*, 110:105991.
-
-  > <font size="3"> This paper investigates whether the world’s most mature electric vehicle (EV) market in Norway has overcome critical mass constraints and can achieve sustainable long-term equilibria without subsidies. We estimate a structural model that allows for multiple equilibria emerging from the interdependence between EV demand and charging station supply. We first estimate the resulting indirect network effects using an instrumental variable approach. Then, we simulate long-term market outcomes for each of the 422 Norwegian municipalities. We find that almost 20% of all municipalities faced critical mass constraints in the earliest stage of the market. Half of them are effectively trapped in a zero-adoption equilibrium. However, in the maturing market, all municipalities have passed critical mass. Overall, about 60% of the Norwegian population now lives in municipalities with a high-adoption equilibrium, even if subsidies were removed. This suggests that critical mass constraints do no longer justify the provision of subsidies. </font>
+  > <font size="3"> This paper investigates whether the world’s most mature electric vehicle (EV) market in Norway has overcome critical mass constraints and can achieve sustainable long-term equilibria without subsidies. We estimate a structural model that allows for multiple equilibria emerging from the interdependence between EV demand and charging station supply. We first estimate the resulting indirect network effects using an instrumental variable approach. Then, we simulate long-term market outcomes for each of the 422 Norwegian municipalities. We find that almost 20% of all municipalities faced critical mass constraints in the earliest stage of the market. Half of them are effectively trapped in a zero-adoption equilibrium. However, in the maturing market, all municipalities have passed critical mass. Overall, about 60% of the Norwegian population now lives in municipalities with a high-adoption equilibrium, even if subsidies were removed. This suggests that critical mass constraints do no longer justify the provision of subsidies. </font></details>
 
 Working Papers
 ------
@@ -31,8 +31,6 @@ Working Papers
 
 - **"The Association between Adverse Temperature Shocks and Schooling Outcomes in India: Impact Quantification and Mitigation Potentials"** ([Working Paper](https://sofiewaltl.com/wp-content/uploads/2024/09/india.pdf))
 with Sumit Agrawal, Pulak Ghosh and Sofie R Waltl.
-
-<br>
 
   > <font size="3"> Does extreme heat adversely affect the educational outcomes of kids in India? To address this question, we link results in the Indian Upper Primary Level Examination to information on local weather conditions, air pollution, and vegetation density sourced from remote sensing data. This link is established by precisely geo-coding school addresses. The panel structure of our data allows us to track the success of students attending the same school over four years, while accounting for any time-invariant school- or location-specific attributes.
 Our analysis reveals that both cumulative heat exposure and exposure to higher temperatures during examinations adversely affect students' performance. A constant increase in temperature by merely 0.5°C results in a drop in the number of students passing the exam by approximately 2% and a drop in the number of highest grades ("distinctions") of almost 15%, hinting towards a sizable potential loss in human capital. 
