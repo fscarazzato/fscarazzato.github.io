@@ -10,6 +10,10 @@ redirect_from:
 
 {% include base_path %}
 
+
+[*Download*](https://fscarazzato.github.io/files/cv.pdf)
+
+
 Education
 ======
 * Ph.D program in Economics, Department of Economics, Vienna University of Economics and Business (expected 2026).
@@ -23,11 +27,7 @@ Education
 Research Interests
 ======
 
-* Energy Markets
-
-* Environmental Economics
-
-* Industrial Economics
+Energy Markets, Environmental Economics, Industrial Economics.
 
 
 
