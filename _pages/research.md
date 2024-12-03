@@ -35,7 +35,6 @@ Nicolas Koch, Nolan Ritter, Alexander Rohlf, Francesco Scarazzato. (2022). <i> E
 Working Papers
 ------
 
-* **"How Elastic is the Aggregate Demand for Electricity? Evidence from a Hydropower-Rich Country"** (*Short paper, available upon request*).
 
 <details>
 
@@ -52,9 +51,11 @@ These findings suggest that increasing vegetation in the vicinity of schools is 
 </details>
 
 
+\noindent * **"How Elastic is the Aggregate Demand for Electricity? Evidence from a Hydropower-Rich Country"** (*Short paper, available upon request*).
+
 
 Ongoing Projects
 ------
 
 
-* **"Hydropower and Market Power: Resource Extraction under Limited Transmission Capacity"**.
+\noindent * **"Hydropower and Market Power: Resource Extraction under Limited Transmission Capacity"**.
