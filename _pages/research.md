@@ -22,8 +22,7 @@ Journal Publications
 <details>
 
 <summary> <b> "When is the Electric Vehicle Market Self-sustaining? Evidence from Norway" </b> 
-<a href="https://doi.org/10.1016/j.eneco.2022.105991">(Link)</a>
-Nicolas Koch, Nolan Ritter, Alexander Rohlf, Francesco Scarazzato. (2022). <i> Energy Economics </i>, 110:105991. </summary>
+Nicolas Koch, Nolan Ritter, Alexander Rohlf, Francesco Scarazzato. (2022). <i> Energy Economics </i>, 110:105991. <a href="https://doi.org/10.1016/j.eneco.2022.105991">(Link)</a> </summary>
 
 <br>
 
@@ -31,22 +30,31 @@ Nicolas Koch, Nolan Ritter, Alexander Rohlf, Francesco Scarazzato. (2022). <i> E
 
 </details>
 
+
+
 Working Papers
 ------
 
-- **"How Elastic is the Aggregate Demand for Electricity? Evidence from a Hydropower-Rich Country"** (*Short paper, available upon request*).
+* **"How Elastic is the Aggregate Demand for Electricity? Evidence from a Hydropower-Rich Country"** (*Short paper, available upon request*).
 
-- **"The Association between Adverse Temperature Shocks and Schooling Outcomes in India: Impact Quantification and Mitigation Potentials"** ([Working Paper](https://sofiewaltl.com/wp-content/uploads/2024/09/india.pdf))
-with Sumit Agrawal, Pulak Ghosh and Sofie R Waltl.
+<details>
 
-  > <font size="3"> Does extreme heat adversely affect the educational outcomes of kids in India? To address this question, we link results in the Indian Upper Primary Level Examination to information on local weather conditions, air pollution, and vegetation density sourced from remote sensing data. This link is established by precisely geo-coding school addresses. The panel structure of our data allows us to track the success of students attending the same school over four years, while accounting for any time-invariant school- or location-specific attributes.
+<summary> <b> "The Association between Adverse Temperature Shocks and Schooling Outcomes in India: Impact Quantification and Mitigation Potentials" </b>, 
+with Sumit Agrawal, Pulak Ghosh and Sofie R Waltl. <a href="https://sofiewaltl.com/wp-content/uploads/2024/09/india.pdf">(Working Paper)</a> </summary>
+
+<br>
+
+<font size="3"> <i> Does extreme heat adversely affect the educational outcomes of kids in India? To address this question, we link results in the Indian Upper Primary Level Examination to information on local weather conditions, air pollution, and vegetation density sourced from remote sensing data. This link is established by precisely geo-coding school addresses. The panel structure of our data allows us to track the success of students attending the same school over four years, while accounting for any time-invariant school- or location-specific attributes.
 Our analysis reveals that both cumulative heat exposure and exposure to higher temperatures during examinations adversely affect students' performance. A constant increase in temperature by merely 0.5°C results in a drop in the number of students passing the exam by approximately 2% and a drop in the number of highest grades ("distinctions") of almost 15%, hinting towards a sizable potential loss in human capital. 
 We find that the negative impact on exam pass rates intensifies with higher temperature ranges, with the effect being largest on days with maximum temperatures exceeding 40°C. Furthermore, we show that vegetation in the proximity of schools has a strong mitigating effect that increases with forest cover density: given an area of about 80 hectares around each school, 2.6 hectare of forest would offset the impact of an increase in temperature by 1°C on the probability of passing the exam, and 9.5 hectares would offset the effect of a 1°C increase, on the probability of achieving a distinction.
-These findings suggest that increasing vegetation in the vicinity of schools is a valid policy recommendation to soften the adverse impacts of extreme heat on adverse educational outcomes, and adapt to expected long-term changes in climate. </font>
+These findings suggest that increasing vegetation in the vicinity of schools is a valid policy recommendation to soften the adverse impacts of extreme heat on adverse educational outcomes, and adapt to expected long-term changes in climate. </i> </font>
+
+</details>
+
 
 
 Ongoing Projects
 ------
 
 
-- **"Hydropower and Market Power: Resource Extraction under Limited Transmission Capacity"**.
+* **"Hydropower and Market Power: Resource Extraction under Limited Transmission Capacity"**.
