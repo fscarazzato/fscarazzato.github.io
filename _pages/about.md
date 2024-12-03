@@ -7,22 +7,11 @@ redirect_from:
   - /about.html
 ---
 
+Hi! I'm a PhD candidate in Economics at the Vienna University of Economics and Business (WU). 
+
+My research focuses on **energy markets**, **environmental economics** and **industrial economics**.
 
 <br>
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z7QB0ZV44P"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-Z7QB0ZV44P');
-</script>
-
-
-<br>
-
 
 
 Journal Publications

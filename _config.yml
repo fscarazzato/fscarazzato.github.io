@@ -22,9 +22,9 @@ repository               : "fscarazzato/fscarazzato.github.io"
 author:
   # Biographic information
   avatar           : "foto.jpg"
-  name             : ""
+  name             : #""
   pronouns         : # example: "she/her"  
-  bio              : "Hi! I'm a PhD candidate at the Vienna University of Economics and Business (WU)."
+  bio              : #"Hi! I'm a PhD candidate at the Vienna University of Economics and Business (WU)."
   location         : "Vienna, Austria"
   employer         : "WU"
   uri              : "https://www.wu.ac.at/en/economics/people/scarazzato-f/"
