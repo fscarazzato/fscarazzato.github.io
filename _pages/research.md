@@ -21,7 +21,7 @@ Journal Publications
 
 <details>
 
-<summary> <b> "When is the Electric Vehicle Market Self-sustaining? Evidence from Norway" </b> 
+<summary> <b> "When is the Electric Vehicle Market Self-sustaining? Evidence from Norway" </b>.
 Nicolas Koch, Nolan Ritter, Alexander Rohlf, Francesco Scarazzato. (2022). <i> Energy Economics </i>, 110:105991. <a href="https://doi.org/10.1016/j.eneco.2022.105991">(Link)</a> </summary>
 
 <br>
@@ -51,11 +51,11 @@ These findings suggest that increasing vegetation in the vicinity of schools is 
 </details>
 
 
-\noindent * **"How Elastic is the Aggregate Demand for Electricity? Evidence from a Hydropower-Rich Country"** (*Short paper, available upon request*).
+&#x2022; <b> "How Elastic is the Aggregate Demand for Electricity? Evidence from a Hydropower-Rich Country"</b> (<i> Short paper, available upon request </i>).
 
 
 Ongoing Projects
 ------
 
 
-\noindent * **"Hydropower and Market Power: Resource Extraction under Limited Transmission Capacity"**.
+&#x2022; <b> "Hydropower and Market Power: Resource Extraction under Limited Transmission Capacity" </b>.
