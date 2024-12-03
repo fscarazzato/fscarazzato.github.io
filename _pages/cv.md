@@ -3,6 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
+paperurl: 'http://fscarazzato.github.io/files/cv.pdf'
 redirect_from:
   - /resume
 ---
@@ -11,54 +12,44 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D program in Economics, Department of Economics, Vienna University of Economics and Business (expected 2026).
+	- Research visit, EnergyEcoLab, Universidad Carlos III de Madrid (Fall 2024).
+
+* Master's degree in Resource Economics and Sustainable Development, University of Bologna (2020).
+
+* Bachelor's degree in Politics and Economics, University of Milan (2018).
+
+
+Research Interests
+======
+
+* Energy Markets
+
+* Environmental Economics
+
+* Industrial Economics
+
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Teaching and Research Associate at the Department of Economics, Vienna University of Economics and Business (Ongoing).
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Data Analyst, Eurofox GmbH (2021).
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Internship and Research Visit, Mercator Research Institute on Global Commons and Climate Change (2020-2021).
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+
+Vienna university of Economics and Business:
+
+* Foundations in Microeconomics (BA) (2022-Ongoing)
+* Microeconomics (BA) (2025)
+* Managerial Economics (MA) (2022)
+
+
+Refereeing
 ======
-* Currently signed in to 43 different slack teams
+Energy Economics
