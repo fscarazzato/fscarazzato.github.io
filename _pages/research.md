@@ -50,12 +50,14 @@ These findings suggest that increasing vegetation in the vicinity of schools is 
 
 </details>
 
+<br>
 
-&#x2022; <b> "How Elastic is the Aggregate Demand for Electricity? Evidence from a Hydropower-Rich Country"</b> (<i> Short paper, available upon request </i>).
+
+&#x2022; &nbsp; <b> "How Elastic is the Aggregate Demand for Electricity? Evidence from a Hydropower-Rich Country"</b> (<i> Short paper, available upon request </i>).
 
 
 Ongoing Projects
 ------
 
 
-&#x2022; <b> "Hydropower and Market Power: Resource Extraction under Limited Transmission Capacity" </b>.
+&#x2022; &nbsp; <b> "Hydropower and Market Power: Resource Extraction under Limited Transmission Capacity" </b>.
