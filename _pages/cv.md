@@ -28,8 +28,8 @@ redirect_from:
 
 
 
-Research Interests
-======
+## Research Interests
+
 
 Energy Markets, Environmental Economics, Industrial Economics.
 
@@ -37,8 +37,8 @@ Energy Markets, Environmental Economics, Industrial Economics.
 
 
 
-Work experience
-======
+## Work experience
+
 * Teaching and Research Associate at the Department of Economics, Vienna University of Economics and Business (Ongoing).
 
 * Data Analyst, Eurofox GmbH (2021).
@@ -48,8 +48,8 @@ Work experience
   
 
 
-Teaching
-======
+## Teaching
+
 
 Vienna university of Economics and Business:
 
