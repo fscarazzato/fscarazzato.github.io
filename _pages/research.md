@@ -18,6 +18,8 @@ author_profile: true
 Journal Publications
 ------
 
+<br>
+
 
 <details>
 
@@ -34,6 +36,8 @@ Nicolas Koch, Nolan Ritter, Alexander Rohlf, Francesco Scarazzato. (2022). <i> E
 
 Working Papers
 ------
+
+<br>
 
 
 <details>
@@ -58,6 +62,8 @@ These findings suggest that increasing vegetation in the vicinity of schools is 
 
 Ongoing Projects
 ------
+
+<br>
 
 
 &#x2022; &nbsp; <b> "Hydropower and Market Power: Resource Extraction under Limited Transmission Capacity" </b>.
