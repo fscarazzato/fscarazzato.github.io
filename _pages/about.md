@@ -23,9 +23,7 @@ redirect_from:
 
 <br>
 
-# My Research:
 
-<br>
 
 Journal Publications
 ------
