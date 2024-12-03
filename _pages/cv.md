@@ -14,20 +14,26 @@ redirect_from:
 [*Download*](https://fscarazzato.github.io/files/cv.pdf)
 
 
-Education
-======
-* Ph.D program in Economics, Department of Economics, Vienna University of Economics and Business (expected 2026).
-	- Research visit, EnergyEcoLab, Universidad Carlos III de Madrid (Fall 2024).
 
-* Master's degree in Resource Economics and Sustainable Development, University of Bologna (2020).
+## Education
 
-* Bachelor's degree in Politics and Economics, University of Milan (2018).
+
+* Ph.D program in Economics, Vienna University of Economics and Business (expected 2026).
+	- Research visit, EnergyEcoLab, Universidad Carlos III de Madrid (October-November 2024).
+
+* Master in Resource Economics and Sustainable Development, University of Bologna (2020).
+
+* Bachelor in Politics and Economics, University of Milan (2018).
+
+
 
 
 Research Interests
 ======
 
 Energy Markets, Environmental Economics, Industrial Economics.
+
+
 
 
 
@@ -40,6 +46,8 @@ Work experience
 * Internship and Research Visit, Mercator Research Institute on Global Commons and Climate Change (2020-2021).
 
   
+
+
 Teaching
 ======
 
@@ -50,6 +58,4 @@ Vienna university of Economics and Business:
 * Managerial Economics (MA) (2022)
 
 
-Refereeing
-======
-Energy Economics
+
