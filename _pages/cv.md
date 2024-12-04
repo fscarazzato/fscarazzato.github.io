@@ -53,8 +53,9 @@ Energy Markets, Environmental Economics, Industrial Economics.
 
 Vienna university of Economics and Business:
 
-* 2025 : Microeconomics (BA)
-* 2022 - Ongoing : Foundations in Microeconomics (BA)
+* 2025 : Microeconomics (BA), Foundations in Microeconomics (BA)
+* 2024 : Foundations in Microeconomics (BA)
+* 2023 : Foundations in Microeconomics (BA)
 * 2022 : Managerial Economics (MA)
 
 
