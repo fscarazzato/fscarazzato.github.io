@@ -39,11 +39,11 @@ Energy Markets, Environmental Economics, Industrial Economics.
 
 ## Work experience
 
-* Teaching and Research Associate at the Department of Economics, Vienna University of Economics and Business (Ongoing).
+* 2021 - Ongoing: Teaching and Research Associate at the Department of Economics, Vienna University of Economics and Business.
 
-* Data Analyst, Eurofox GmbH (2021).
+* 2021: Data Analyst, Eurofox GmbH.
 
-* Internship and Research Visit, Mercator Research Institute on Global Commons and Climate Change (2020-2021).
+* 2020 - 2021 : Internship and Research Visit, Mercator Research Institute on Global Commons and Climate Change.
 
   
 
