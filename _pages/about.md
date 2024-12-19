@@ -70,7 +70,17 @@ These findings suggest that increasing vegetation in the vicinity of schools is 
 <br>
 <br>
 
-&#x2022; &nbsp; <b> "How Elastic is the Aggregate Demand for Electricity? Evidence from a Hydropower-Rich Country"</b> (<i> Short paper, available upon request </i>).
+&#x2022; &nbsp; <b> "How (In-)Elastic is the Short-Run Demand for Electricity?"</b> (<i> Short paper, available upon request </i>).
+
+<details>
+
+<summary> <mark><b> Abstract </b></mark> </summary>
+
+<br>
+
+<font size="3"> <i> This paper examines how the aggregate demand for electricity responds to changes in hourly wholesale market prices. I focus on a hydropower-rich country and use data on imported wind energy and accumulated precipitation as instruments for price. Using data from Switzerland from 2016 to 2023, I find that both instruments have a strong and significant price-depressing effect, and I estimate the price elasticity of load to be -0.1. However, when separately analyzing the responsiveness of end-user from that of power plants' consumption, I find that storage is highly susceptible to price fluctuations, while end-user demand is perfectly inelastic. </i> </font>
+
+</details>
 
 <br>
 
