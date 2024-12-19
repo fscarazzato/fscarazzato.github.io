@@ -12,18 +12,6 @@ mark {
   color: white;
   text-decoration-color: white;
 }
-a:link { 
-  text-decoration: none; 
-} 
-a:visited { 
-  text-decoration: none; 
-} 
-a:hover { 
-  text-decoration: underline; 
-} 
-a:active { 
-  text-decoration: none; 
-}
 
 
 </style>
@@ -80,7 +68,7 @@ These findings suggest that increasing vegetation in the vicinity of schools is 
 </details>
 
 <br>
-
+<br>
 
 &#x2022; &nbsp; <b> "How Elastic is the Aggregate Demand for Electricity? Evidence from a Hydropower-Rich Country"</b> (<i> Short paper, available upon request </i>).
 
