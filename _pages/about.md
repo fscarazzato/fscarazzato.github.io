@@ -13,6 +13,9 @@ mark {
   text-decoration-color: white;
 }
 
+div {
+  text-align: justify;
+}
 
 </style>
 
