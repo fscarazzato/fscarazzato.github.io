@@ -10,8 +10,9 @@ redirect_from:
 mark {
   background-color: black;
   color: white;
-  text-decoration: none;
+  text-decoration-color: white;
 }
+
 
 
 </style>
@@ -31,11 +32,11 @@ Journal Publications
 <br>
 
 &#x2022; &nbsp; <b> "When is the Electric Vehicle Market Self-sustaining? Evidence from Norway" </b>.
-Nicolas Koch, Nolan Ritter, Alexander Rohlf, Francesco Scarazzato. (2022). <i> Energy Economics </i>, 110:105991. <a href="https://doi.org/10.1016/j.eneco.2022.105991"><mark> Link </mark></a>
+Nicolas Koch, Nolan Ritter, Alexander Rohlf, Francesco Scarazzato. (2022). <i> Energy Economics </i>, 110:105991. <a href="https://doi.org/10.1016/j.eneco.2022.105991"><mark><b> Link </b></mark></a>
 
 <details>
 
-<summary> <mark> Abstract </mark> </summary>
+<summary> <mark><b> Abstract </b></mark> </summary>
 
 <br>
 
@@ -52,11 +53,11 @@ Working Papers
 <br>
 
 &#x2022; &nbsp; <b> "The Association between Adverse Temperature Shocks and Schooling Outcomes in India: Impact Quantification and Mitigation Potentials" </b>, 
-with Sumit Agrawal, Pulak Ghosh and Sofie R Waltl. <a href="https://sofiewaltl.com/wp-content/uploads/2024/09/india.pdf"> <mark> Working Paper </mark> </a>
+with Sumit Agrawal, Pulak Ghosh and Sofie R Waltl. <a href="https://sofiewaltl.com/wp-content/uploads/2024/09/india.pdf"> <mark><b> Working Paper </b></mark> </a>
 
 <details>
 
-<summary> <mark> Abstract </mark> </summary>
+<summary> <mark><b> Abstract </b></mark> </summary>
 
 <br>
 
