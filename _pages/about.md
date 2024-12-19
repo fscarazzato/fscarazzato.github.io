@@ -11,6 +11,13 @@ mark {
   background-color: black;
   color: white;
 }
+
+a:link {
+  color: white;
+  background-color: black;
+  text-decoration: none;
+}
+
 </style>
 
 <br>
@@ -28,11 +35,11 @@ Journal Publications
 <br>
 
 &#x2022; &nbsp; "When is the Electric Vehicle Market Self-sustaining? Evidence from Norway" </b>.
-Nicolas Koch, Nolan Ritter, Alexander Rohlf, Francesco Scarazzato. (2022). <i> Energy Economics </i>, 110:105991. <a href="https://doi.org/10.1016/j.eneco.2022.105991"> <mark>Abstract</mark> </a>
+Nicolas Koch, Nolan Ritter, Alexander Rohlf, Francesco Scarazzato. (2022). <i> Energy Economics </i>, 110:105991. <a href="https://doi.org/10.1016/j.eneco.2022.105991"> Link </a>
 
 <details>
 
-<summary> <mark>Abstract</mark> </summary>
+<summary> <mark> Abstract </mark> </summary>
 
 <br>
 
