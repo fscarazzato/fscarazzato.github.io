@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Francesco Scarazzato"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -73,7 +73,7 @@ These findings suggest that increasing vegetation in the vicinity of schools is 
 <br>
 <br>
 
-&#x2022; &nbsp; <b> "How (In-)Elastic is the Short-Run Demand for Electricity?"</b> (<i> Short paper, available upon request </i>).
+&#x2022; &nbsp; <b> "How (In)Elastic is the Short-Run Demand for Electricity?"</b> (<i> Short paper, available upon request </i>).
 
 <details>
 
