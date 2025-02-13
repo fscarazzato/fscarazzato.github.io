@@ -54,6 +54,25 @@ Working Papers
 
 <br>
 
+&#x2022; &nbsp; <b> "How (In)Elastic is the Short-Run Demand for Electricity?"</b> [Working paper](https://fscarazzato.github.io/files/Switzerland.pdf).
+
+<details>
+
+<summary> <mark><b> Abstract </b></mark> </summary>
+
+<br>
+
+<font size="3"> <i> This paper examines how the aggregate demand for electricity responds to changes in hourly wholesale market prices. I focus on a hydropower-rich country and use data on
+imported wind energy and accumulated precipitation as instruments for price. Using data from Switzerland from 2016 to 2023, I find that both instruments have a strong and
+significant price-depressing effect, and I estimate the price elasticity of aggregate demand to be -0.1. However, this responsiveness is entirely driven by the consumption of storage systems and power plants, while end-user demand remains perfectly inelastic to price fluctuations in the short-run. </i> </font>
+
+</details>
+
+<br>
+
+
+<br>
+
 &#x2022; &nbsp; <b> "The Association between Adverse Temperature Shocks and Schooling Outcomes in India: Impact Quantification and Mitigation Potentials" </b>, 
 with Sumit Agrawal, Pulak Ghosh and Sofie R Waltl. <a href="https://sofiewaltl.com/wp-content/uploads/2024/09/india.pdf"> Working Paper </a>
 
@@ -71,23 +90,7 @@ These findings suggest that increasing vegetation in the vicinity of schools is 
 </details>
 
 <br>
-<br>
 
-&#x2022; &nbsp; <b> "How (In)Elastic is the Short-Run Demand for Electricity?"</b> (<i> Short paper, available upon request </i>).
-
-<details>
-
-<summary> <mark><b> Abstract </b></mark> </summary>
-
-<br>
-
-<font size="3"> <i> This paper examines how the aggregate demand for electricity responds to changes in hourly wholesale market prices. I focus on a hydropower-rich country and use data on
-imported wind energy and accumulated precipitation as instruments for price. Using data from Switzerland from 2016 to 2023, I find that both instruments have a strong and
-significant price-depressing effect, and I estimate the price elasticity of aggregate demand to be -0.1. However, this responsiveness is entirely driven by the consumption of storage systems and power plants, while end-user demand remains perfectly inelastic to price fluctuations in the short-run. </i> </font>
-
-</details>
-
-<br>
 
 
 Ongoing Projects
