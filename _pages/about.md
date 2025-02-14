@@ -54,7 +54,7 @@ Working Papers
 
 <br>
 
-&#x2022; &nbsp; <b> "How (In)Elastic is the Short-Run Demand for Electricity?"</b>. [Working paper](https://fscarazzato.github.io/files/Scarazzato_2025_HowInElastic.pdf)
+&#x2022; &nbsp; <b> "How (In)Elastic is the Short-Run Demand for Electricity?"</b>. [Working paper](https://fscarazzato.github.io/files/Scarazzato_2025_HowInElastic.pdf) [GitHub Repository](https://github.com/fscarazzato/Short-RunElectricityDemand)
 
 <details>
 
