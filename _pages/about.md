@@ -33,7 +33,7 @@ Journal Publications
 
 <br>
 
-&#x2022; &nbsp; <b> "How (In)Elastic is the Short-Run Demand for Electricity?"</b>. Francesco Scarazzato. (2025) <i> Economics Letters </i>, 254:112453. <a href="https://doi.org/10.1016/j.econlet.2025.112453."> Link </a> [GitHub](https://github.com/fscarazzato/Short-RunElectricityDemand)
+&#x2022; &nbsp; <b> "How (In)Elastic is the Short-Run Demand for Electricity?"</b>. Francesco Scarazzato. (2025) <i> Economics Letters </i>, 254:112453. [Link](https://doi.org/10.1016/j.econlet.2025.112453.) [GitHub](https://github.com/fscarazzato/Short-RunElectricityDemand)
 
 <details>
 
