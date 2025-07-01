@@ -33,7 +33,7 @@ Journal Publications
 
 <br>
 
-&#x2022; &nbsp; <b> "How (In)Elastic is the Short-Run Demand for Electricity?"</b>. Francesco Scarazzato. (2025) <i> Economics Letters </i>, 254. [Link](https://doi.org/10.1016/j.econlet.2025.112453) &nbsp; [GitHub](https://github.com/fscarazzato/Short-RunElectricityDemand)
+&#x2022; &nbsp; <b> "How (In)Elastic is the Short-Run Demand for Electricity?"</b>. Francesco Scarazzato. (2025) <i> Economics Letters </i>, 254. &nbsp; [Link](https://doi.org/10.1016/j.econlet.2025.112453) &nbsp; [GitHub](https://github.com/fscarazzato/Short-RunElectricityDemand)
 
 <details>
 
@@ -54,7 +54,7 @@ significant price-depressing effect, and I estimate the price elasticity of aggr
 <br>
 
 &#x2022; &nbsp; <b> "When is the Electric Vehicle Market Self-sustaining? Evidence from Norway" </b>.
-Nicolas Koch, Nolan Ritter, Alexander Rohlf, Francesco Scarazzato. (2022). <i> Energy Economics </i>, 110. <a href="https://doi.org/10.1016/j.eneco.2022.105991"> Link </a>
+Nicolas Koch, Nolan Ritter, Alexander Rohlf, Francesco Scarazzato. (2022). <i> Energy Economics </i>, 110. &nbsp; <a href="https://doi.org/10.1016/j.eneco.2022.105991"> Link </a>
 
 <details>
 
