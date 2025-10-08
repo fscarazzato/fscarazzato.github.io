@@ -108,5 +108,5 @@ Ongoing Projects
 <br>
 
 
-&#x2022; &nbsp; <b> “Tariffs and Competition in the Electric Vehicle Charging Market”. With Lydia Dimitrakopoulou, Lukas
-Brunninger, and Klaus Gugler. </b>.
+&#x2022; &nbsp; <b> “Tariffs and Competition in the Electric Vehicle Charging Market” </b>, With Lydia Dimitrakopoulou, Lukas
+Brunninger, and Klaus Gugler. 
