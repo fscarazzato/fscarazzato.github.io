@@ -77,7 +77,7 @@ Working Papers
 <br>
 
 &#x2022; &nbsp; <b> "The Association between Adverse Temperature Shocks and Schooling Outcomes in India: Impact Quantification and Mitigation Potentials" </b>, 
-with Sumit Agrawal, Pulak Ghosh and Sofie R Waltl. <a href="https://sofiewaltl.com/wp-content/uploads/2024/09/india.pdf"> Working Paper </a>
+with Sumit Agrawal, Pulak Ghosh and Sofie R Waltl. <a href="https://www.landecon.cam.ac.uk/sites/default/files/2025-10/CRERC_2025-06%20WP.pdf"> Working Paper </a>
 
 <details>
 
@@ -85,10 +85,11 @@ with Sumit Agrawal, Pulak Ghosh and Sofie R Waltl. <a href="https://sofiewaltl.c
 
 <br>
 
-<font size="3"> <i> Does extreme heat adversely affect the educational outcomes of kids in India? To address this question, we link results in the Indian Upper Primary Level Examination to information on local weather conditions, air pollution, and vegetation density sourced from remote sensing data. This link is established by precisely geo-coding school addresses. The panel structure of our data allows us to track the success of students attending the same school over four years, while accounting for any time-invariant school- or location-specific attributes.
-Our analysis reveals that both cumulative heat exposure and exposure to higher temperatures during examinations adversely affect students' performance. A constant increase in temperature by merely 0.5°C results in a drop in the number of students passing the exam by approximately 2% and a drop in the number of highest grades ("distinctions") of almost 15%, hinting towards a sizable potential loss in human capital. 
-We find that the negative impact on exam pass rates intensifies with higher temperature ranges, with the effect being largest on days with maximum temperatures exceeding 40°C. Furthermore, we show that vegetation in the proximity of schools has a strong mitigating effect that increases with forest cover density: given an area of about 80 hectares around each school, 2.6 hectare of forest would offset the impact of an increase in temperature by 1°C on the probability of passing the exam, and 9.5 hectares would offset the effect of a 1°C increase, on the probability of achieving a distinction.
-These findings suggest that increasing vegetation in the vicinity of schools is a valid policy recommendation to soften the adverse impacts of extreme heat on adverse educational outcomes, and adapt to expected long-term changes in climate. </i> </font>
+<font size="3"> <i> Does extreme heat adversely affect educational outcomes in India? We link results from the Indian Upper Primary Level Examination to local weather, air pollution, and vegetation data derived from remote sensing. Our four-year panel tracks student performance within the same schools while accounting for time-invariant characteristics. Both
+cumulative heat during the school year and higher temperatures during exams significantly reduce performance. Even under the most optimistic RCP scenario, a constant
+temperature increase would, ceteris paribus, lower pass rates by 3%, implying substantial human capital losses. Effect sizes peak when maximum temperatures exceed 40°C and are
+similar for general measures of thermal comfort combining heat and humidity. Students in poorer areas, especially the urban poor, are most vulnerable, and newer or non-centrally
+managed schools may require retrofitting. Vegetation near schools mitigates heat impacts but not sufficiently to offset future risks. </i> </font>
 
 </details>
 
@@ -103,3 +104,9 @@ Ongoing Projects
 
 
 &#x2022; &nbsp; <b> "Hydropower and Market Power: Resource Extraction under Limited Transmission Capacity" </b>.
+
+<br>
+
+
+&#x2022; &nbsp; <b> “Tariffs and Competition in the Electric Vehicle Charging Market”. With Lydia Dimitrakopoulou, Lukas
+Brunninger, and Klaus Gugler. </b>.
